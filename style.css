@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}.form{
+    font-style: oblique;
+    position: relative;
+    left: 195px;
+    bottom: 62px;
+   
+}
+i{
+    position: relative;
+    left: 100px;
+    bottom: 35px;
+}
+.fa-solid{
+    position: relative;
+    left: 110px;
+}
+.header{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid rgb(27, 85, 27);
+    height: 50px;
+    background-color: green;
+    padding: 10px 0px;
+}
+.bank{
+    position: relative;
+    right: 100px;
+}
+.content{
+    margin-top: 30px;
+}
+label{
+    font-size: large;
+}
+.dot{
+    position: relative;
+    top: 20px;
+    text-align: center;
+    font-size: 70px;
+}
+.container{
+    border: 1px solid transparent;
+    background-color: lightskyblue;
+    background: linear-gradient(70deg, lightskyblue, white);
+}
+input{
+    border: 1px solid black;
+}
